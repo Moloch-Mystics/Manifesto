@@ -3,6 +3,7 @@
 **NOW, THEREFORE,** the undersigned parties (the "***Parties***") see mutual benefit in entering into a partnership and formalizing their cooperation over the matters and under the terms sufficiently described in this Memorandum of Understanding ("***MOU***"): 
 
 * 50/50 split ownership of Moloch v3 upgrade funding via Gitcoin and related sources. 
+* All code completed under Gitcoin funding and related shall be open-sourced promptly after completion.
 
 The Parties shall keep confidential and shall not divulge to any other party, without the other's prior written consent, any non-public information concerning this MOU and the cooperation contemplated hereby, treating such confidential information with the same due care as their own proprietary information.
 
